@@ -75,5 +75,6 @@ Projektet kommer muligvis i berøring med Persondata lovgivningen, som igen refe
 ### Persondata og GDPR
 
 * <https://pentests.dk/docs/gdpr-developers-guide/>
+  * Original (på engelsk) <https://github.com/LINCnil/GDPR-Developer-Guide>
 
 ## kode eksempler ...
