@@ -63,4 +63,12 @@ Projektet kommer muligvis i berøring med Persondata lovgivningen, som igen refe
 
 ## links
 
+### Generelt
+
+* <https://www.bitbrain.com/blog/indoor-positioning-system>
+
+### Math
+
+* <https://link.springer.com/article/10.1186/s13673-020-00236-8>
+
 ## kode eksempler ...
