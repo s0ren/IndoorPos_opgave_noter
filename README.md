@@ -71,4 +71,9 @@ Projektet kommer muligvis i berøring med Persondata lovgivningen, som igen refe
 
 * <https://link.springer.com/article/10.1186/s13673-020-00236-8>
 
+
+### Persondata og GDPR
+
+* <https://pentests.dk/docs/gdpr-developers-guide/>
+
 ## kode eksempler ...
