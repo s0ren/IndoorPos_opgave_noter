@@ -50,3 +50,17 @@ Projektet kommer muligvis i berøring med Persondata lovgivningen, som igen refe
 - Beriges data ved at indsamle f.eks. MAC adressse, sammen med tid og sted?
     - Hvad gør det ved data-ansvaret
 - Kan vi begrænse hvilke oplysninger der opsamles, i forhold til formålet?
+
+# forslag til teknologier at kigge på
+
+1.  prøv først med at opsamle RSSI ved at lytte til net pakker, i promiscuis mode
+2.  prøv at lave en tilnærmet afstandsberegning
+3.  undersøg hvordan afstand/RSSI kan udveklses mellem ESP32-enhederne
+    3.1. Kan man bruge ESP-MESH mens enheden sniffer?
+    3.2 Kan man bruge ESP-NOW?
+        - Kan det sikres/krypteres
+4.  Med afstand/signalstyrke/RSSI fra flere stationer, Hvordan kan man så beregne (men tilnærmet nøjagtighed), hvor mobilen befinder sig?
+
+## links
+
+## kode eksempler ...
