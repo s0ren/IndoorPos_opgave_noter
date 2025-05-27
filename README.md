@@ -5,6 +5,7 @@ Noter og links til elementer af projektopgaven __"Positionsbestemmelse af enhede
 Jeg laver noterne her fordi det er hurtigere.
 
 # Formål
+
 Hvordan kan man bestemme hvor en enhed befinder sig, uden at have adgang til GPS?
 Inde i bygninger er GPS signaler ikke særligt tilgængelige, og/eller særlige nøjagtige.
 Så hvad kan man så gøre?
@@ -51,7 +52,7 @@ Projektet kommer muligvis i berøring med Persondata lovgivningen, som igen refe
     - Hvad gør det ved data-ansvaret
 - Kan vi begrænse hvilke oplysninger der opsamles, i forhold til formålet?
 
-# forslag til teknologier at kigge på
+# Forslag til teknologier at kigge på
 
 1.  prøv først med at opsamle RSSI ved at lytte til net pakker, i promiscuis mode
 2.  prøv at lave en tilnærmet afstandsberegning
@@ -61,7 +62,7 @@ Projektet kommer muligvis i berøring med Persondata lovgivningen, som igen refe
         -  Kan det sikres/krypteres
 4.  Med afstand/signalstyrke/RSSI fra flere stationer, Hvordan kan man så beregne (men tilnærmet nøjagtighed), hvor mobilen befinder sig?
 
-## links
+## Links
 
 ### Generelt
 
@@ -77,9 +78,9 @@ Projektet kommer muligvis i berøring med Persondata lovgivningen, som igen refe
 * <https://pentests.dk/docs/gdpr-developers-guide/>
   * Original (på engelsk) <https://github.com/LINCnil/GDPR-Developer-Guide>
 
-## kode eksempler 
+## Kode eksempler 
 
-### wifi sniffter
+### WiFi sniffter
 
 * En demo af en wifi sniffer lavet med generativ AI (Claude). [demo_kode/Proximity sniffer](./demo_kode/Proximity%20sniffer/)
 
