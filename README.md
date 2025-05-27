@@ -1,8 +1,5 @@
 # IndoorPos_opgave_noter
 
-<<<<<<< HEAD
-Kig lige i brachen `ideer-og-links`.
-=======
 Noter og links til elementer af projektopgaven __"Positionsbestemmelse af enheder uden GPS dækning"__
 
 Jeg laver noterne her fordi det er hurtigere.
@@ -81,4 +78,3 @@ Projektet kommer muligvis i berøring med Persondata lovgivningen, som igen refe
   * Original (på engelsk) <https://github.com/LINCnil/GDPR-Developer-Guide>
 
 ## kode eksempler ...
->>>>>>> med-demo-koder
