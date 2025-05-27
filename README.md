@@ -88,4 +88,4 @@ Projektet kommer muligvis i berøring med Persondata lovgivningen, som igen refe
 
 ### MQTT & MongoDB server setup
 
-Et docker-compose projekt som kører Mosquitto MQTT og MongoDB, samt en tilhørende mqtt-subscriber, til at overføre fra MQTT til mongoDB. Se mappen [server](server/).
+Et docker-compose projekt som kører Mosquitto MQTT og MongoDB, samt en tilhørende mqtt-subscriber, til at overføre fra MQTT til mongoDB. Se mappen [demo_kode/mqtt_mongdb_server/](/demo_kode/mqtt_mongdb_server/).
