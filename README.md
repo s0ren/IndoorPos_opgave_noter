@@ -77,4 +77,8 @@ Projektet kommer muligvis i berøring med Persondata lovgivningen, som igen refe
 * <https://pentests.dk/docs/gdpr-developers-guide/>
   * Original (på engelsk) <https://github.com/LINCnil/GDPR-Developer-Guide>
 
-## kode eksempler ...
+## kode eksempler 
+
+### wifi sniffter
+
+* En demo af en wifi sniffer lavet med generativ AI (Claude). [demo_kode/Proximity sniffer](./demo_kode/Proximity%20sniffer/)
