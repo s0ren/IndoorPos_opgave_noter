@@ -1,0 +1,3 @@
+.venv/*
+mosquitto/data/mosquitto.db
+mosquitto/log/mosquitto.log

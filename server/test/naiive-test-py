@@ -1,0 +1,37 @@
+import time
+import json
+from pymongo import MongoClient
+import paho.mqtt.publish as publish
+
+def test_mqtt_to_mongo_integration():
+    test_payload = {"value": 999}
+    topic = "sensor/test"
+
+    # Publish til MQTT
+    publish.single(
+        topic=topic,
+        payload=json.dumps(test_payload),
+        hostname="localhost",
+        port=1883,
+        auth={"username": "subscriber", "password": "ditkodeord"}  # hvis påkrævet
+    )
+
+    # Vent på at subscriber når at gemme
+    time.sleep(2)
+
+    # Slå op i MongoDB
+    client = MongoClient("mongodb://localhost:27017/")
+    collection = client["iot"]["messages"]
+
+    result = collection.find_one(
+        {"topic": topic, "message.value": 999},
+        sort=[("timestamp", -1)]
+    )
+
+    assert result is not None
+    return result
+
+if __name__ == "__main__":
+    print( 
+        test_mqtt_to_mongo_integration()
+    )

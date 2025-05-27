@@ -1,0 +1,63 @@
+user subscriber
+topic read sensor/#
+
+user device01
+topic write sensor/device01/#
+
+user device02
+topic write sensor/device02/#
+
+user device03
+topic write sensor/device03/#
+
+user device04
+topic write sensor/device04/#
+
+user device05
+topic write sensor/device05/#
+
+user device06
+topic write sensor/device06/#
+
+user device07
+topic write sensor/device07/#
+
+user device08
+topic write sensor/device08/#
+
+user device09
+topic write sensor/device09/#
+
+user device10
+topic write sensor/device10/#
+
+user device11
+topic write sensor/device11/#
+
+user device12
+topic write sensor/device12/#
+
+user device13
+topic write sensor/device13/#
+
+user device14
+topic write sensor/device14/#
+
+user device15
+topic write sensor/device15/#
+
+user device16
+topic write sensor/device16/#
+
+user device17
+topic write sensor/device17/#
+
+user device18
+topic write sensor/device18/#
+
+user device19
+topic write sensor/device19/#
+
+user device20
+topic write sensor/device20/#
+

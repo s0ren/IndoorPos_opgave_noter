@@ -82,3 +82,9 @@ Projektet kommer muligvis i berøring med Persondata lovgivningen, som igen refe
 ### wifi sniffter
 
 * En demo af en wifi sniffer lavet med generativ AI (Claude). [demo_kode/Proximity sniffer](./demo_kode/Proximity%20sniffer/)
+
+* en anden wifi sniffer <https://github.com/ETS-PoliTO/esp32-sniffer>
+
+### MQTT & MongoDB server setup
+
+Et docker-compose projekt som kører Mosquitto MQTT og MongoDB, samt en tilhørende mqtt-subscriber, til at overføre fra MQTT til mongoDB.
