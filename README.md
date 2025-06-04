@@ -46,11 +46,34 @@ Projektet kommer muligvis i berøring med Persondata lovgivningen, som igen refe
 
 - Hvilke disse data er personlige?
     - Er de følsomme?
-    - Hele tiden, eller nogen gange.
-    - Er f.eks. en AMC-adresse følsom personlig data?
+    - Hele tiden, eller nogen gange?
+    - Er f.eks. en MAC-adresse følsom personlig data?
 - Beriges data ved at indsamle f.eks. MAC adressse, sammen med tid og sted?
-    - Hvad gør det ved data-ansvaret
+    - Hvad gør det ved data-ansvaret?
 - Kan vi begrænse hvilke oplysninger der opsamles, i forhold til formålet?
+
+# Spørgsmål som indgår i bedømmelsen
+
+- [ ] Hvordan ser løsningen ud
+	- [ ] Arkitektur
+	- [ ] Teknologier
+- [ ] Dataprocess
+	- [ ] primær dataopsamling
+	- [ ] data berigelse
+	- [ ] beregning
+	- [ ] data lagring
+	- [ ] evt data visualisering
+- [ ] Datasikkerhed
+	- [ ] Følsomhed
+		- [ ] hvad er personlige data?
+		- [ ] hvad er risikoen ved at behandle andre folks personlige data?
+		- [ ] i hvor høj grad er de data projektet benytter personlige?
+			- [ ] er data mere personlige når de beriges?
+		- [ ] hvor længe er der brug for at have personlige data i projektet?
+	- [ ] Beskyttelse
+		- [ ] hvem kan få adgang?
+		- [ ] hvor svært er det for udenforstående at skaffe sig adgang til data?
+		- [ ] eller at lytte med?
 
 # Forslag til teknologier at kigge på
 
