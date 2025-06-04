@@ -54,6 +54,8 @@ Projektet kommer muligvis i berøring med Persondata lovgivningen, som igen refe
 
 # Spørgsmål som indgår i bedømmelsen
 
+Opgavens karakter er udpræget eksplorativ. Det vil sige at I skal undersøge hvad og hvordan det kan lade sig gøre. Så undesøgelsen tæller i sig selv. Det tæller også at kode noget. Så altså begge dele.
+
 - [ ] Hvordan ser løsningen ud
 	- [ ] Arkitektur
 	- [ ] Teknologier
